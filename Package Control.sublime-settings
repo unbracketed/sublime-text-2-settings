@@ -1,0 +1,13 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Git",
+		"Package Control",
+		"Pretty JSON",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
+	]
+}
